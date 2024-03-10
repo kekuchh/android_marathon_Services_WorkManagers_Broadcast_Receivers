@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatFacts</string>
+
+    <string name="cat_facts">Факты о котах</string>
+    <string name="service_button">Service</string>
+    <string name="worker_button">WorkManager</string>
+    <string name="select_label">Как отправить запрос?</string>
+</resources>
